@@ -2,5 +2,5 @@ services:
   - type: web
     name: simpleapi-slim
     env: dotnet
-    buildCommand: "dotnet publish -c Release -c out"
+    buildCommand: "dotnet publish -c Release -o out"
     startCommand: "dotnet out/SimpleApi.dll"
