@@ -1,3 +1,5 @@
+GitHub → render.yaml → Edit → ТОЧНО:
+  ```yaml
 services:
   - type: web
     name: simpleapi-slim
