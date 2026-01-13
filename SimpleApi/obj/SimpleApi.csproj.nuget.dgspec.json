@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/seg_pro/RiderProjects/SimpleApi/SimpleApi/SimpleApi.csproj": {}
+    "/Users/seg_pro/RiderProjects/simpleapi/SimpleApi/SimpleApi.csproj": {}
   },
   "projects": {
-    "/Users/seg_pro/RiderProjects/SimpleApi/SimpleApi/SimpleApi.csproj": {
+    "/Users/seg_pro/RiderProjects/simpleapi/SimpleApi/SimpleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/seg_pro/RiderProjects/SimpleApi/SimpleApi/SimpleApi.csproj",
+        "projectUniqueName": "/Users/seg_pro/RiderProjects/simpleapi/SimpleApi/SimpleApi.csproj",
         "projectName": "SimpleApi",
-        "projectPath": "/Users/seg_pro/RiderProjects/SimpleApi/SimpleApi/SimpleApi.csproj",
+        "projectPath": "/Users/seg_pro/RiderProjects/simpleapi/SimpleApi/SimpleApi.csproj",
         "packagesPath": "/Users/seg_pro/.nuget/packages/",
-        "outputPath": "/Users/seg_pro/RiderProjects/SimpleApi/SimpleApi/obj/",
+        "outputPath": "/Users/seg_pro/RiderProjects/simpleapi/SimpleApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/seg_pro/.nuget/NuGet/NuGet.Config"
